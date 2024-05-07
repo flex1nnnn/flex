@@ -2,10 +2,6 @@ import requests
 from urllib.parse import urlencode
 from colorama import Style, Fore
 
-import requests
-from colorama import Style, Fore
-
-import requests
 
 def watsons(numara):
     try:
